@@ -2,5 +2,5 @@
   "latest_version": "1.0",
   "apk_url": "https://github.com/yourusername/your-repo/raw/main/app-release.apk",
   "release_notes": "Исправлены ошибки, добавлены новые функции.",
-  "isMandatory": "0"
+  "isMandatory": "false"
 }
