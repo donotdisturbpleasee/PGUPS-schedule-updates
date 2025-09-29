@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.1",
+  "latest_version": "1.0",
   "apk_url": "https://github.com/donotdisturbpleasee/PGUPS-schedule-updates/raw/refs/heads/main/update.apk",
-  "release_notes": "Первая версия с реализованной системой автообновлений.",
+  "release_notes": "Первая версия.",
   "isWorking": "true"
 }
