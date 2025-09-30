@@ -1,6 +1,6 @@
 {
-  "latest_version": "1.0",
+  "latest_version": "1.1",
   "apk_url": "https://github.com/donotdisturbpleasee/PGUPS-schedule-updates/raw/refs/heads/main/update.apk",
-  "release_notes": "Первая версия.",
+  "release_notes": "Добавлено кэширование расписания для ускорения загрузки расписания.",
   "isWorking": "true"
 }
